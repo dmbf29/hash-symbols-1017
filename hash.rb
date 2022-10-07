@@ -56,13 +56,13 @@ students.delete_at(0)
 
 
 students_age = {
-  "kaho cheng" => { 'age' => 24, 'phone' => 8012341234 },
+  "kaho" => { 'age' => 24, 'phone' => 8012341234 },
   "tashika" => [25, 12],
   "yuliia" => 22,
   "savi" => 20,
   "keita" => 85
 }
-students_age['kaho']['phone']
+students_age['Kaho']['phone']
 # p students_age[0][1]
 
 
